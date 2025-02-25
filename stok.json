@@ -1,0 +1,17 @@
+[
+    {
+        "urun": "Laptop",
+        "fiyat": 25000,
+        "stok": 5
+    },
+    {
+        "urun": "Airpods Pro",
+        "fiyat": 10000,
+        "stok": 10
+    },
+    {
+        "urun": "Telefon",
+        "fiyat": 45000,
+        "stok": 25
+    }
+]
