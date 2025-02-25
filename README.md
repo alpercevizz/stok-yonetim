@@ -1,3 +1,4 @@
+```markdown
 # 🛒 Stok Yönetim Sistemi
 
 🚀 Python ile geliştirilen, **JSON tabanlı stok yönetim sistemi**.  
@@ -11,13 +12,15 @@
 ✅ **JSON tabanlı veri kaydı**  
 ✅ **Basit menü sistemi ile kullanım kolaylığı**  
 
-## 📥 Kurulum
+---
 
-Python yüklü olduğundan emin olun.  
-Projeyi çalıştırmak için terminale şu komutları yazın:
+## 📥 Kurulum ve Çalıştırma
 
-```bash
-git clone https://github.com/kullaniciadi/stok-yonetim.git
-cd stok-yonetim
-python stok.py
+Python’un yüklü olduğundan emin olun. Eğer yüklü değilse, şu adımları takip edin:
 
+### 1️⃣ Python'u yükleyin
+- **Windows için:** [Python İndir](https://www.python.org/downloads/)
+- **Linux/macOS için:** Terminalde şu komutu çalıştırın:
+  ```bash
+  sudo apt install python3  # Debian/Ubuntu
+  brew install python3      # macOS
